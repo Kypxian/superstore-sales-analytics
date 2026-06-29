@@ -278,13 +278,11 @@ cd sales-analytics-powerbi
 
 ---
 
-## Screenshots
-
-*(Screenshots go here — one per page)*
+## 📸 Report Screenshots
 
 | Page | Preview |
-|---|---|
-| 📊 Executive Dashboard | `screenshots/dashboard.png` |
-| 📦 Product Analysis | `screenshots/products.png` |
-| 🌍 Customer & Geography | `screenshots/customers.png` |
-| 🚚 Shipping & Time Trends | `screenshots/shipping.png` |
+|------|---------|
+| 📊 **Executive Dashboard** | <img src="https://raw.githubusercontent.com/Kypxian/superstore-sales-analytics/main/screenshots/dashboard.png" alt="Dashboard" width="400"/> |
+| 📦 **Product Analysis** | <img src="https://raw.githubusercontent.com/Kypxian/superstore-sales-analytics/main/screenshots/products.png" alt="Products" width="400"/> |
+| 🌍 **Customer & Geography** | <img src="https://raw.githubusercontent.com/Kypxian/superstore-sales-analytics/main/screenshots/customers.png" alt="Customers" width="400"/> |
+| 🚚 **Shipping & Time Trends** | <img src="https://raw.githubusercontent.com/Kypxian/superstore-sales-analytics/main/screenshots/shipping.png" alt="Shipping" width="400"/> |
